@@ -1,4 +1,4 @@
 # Baskhara vs Po-Shen Loh
-Comparei a aplicação no Python do método tradicional para a resolução de equações do segundo grau e do método de Po-Shen Loh. O exercício foi bem interessante, poi algebricamente (obviamente) os resultados, como esperado, são exatamente iguais. 
+I compared the application in Python of the traditional method for solving high school sad and the Po-Shen Loh method. The exercise was very interesting, because algebraically (obviously) the results, as expected, are exactly the same.
 
-Usei os valroes a = 1, b = 5 e c = -2, mas poderia ser qualquer um. O valor de delta foi 33.
+I used the values ​​a = 1, b = 5 and c = -2, but it could be any. The delta value was 33.
